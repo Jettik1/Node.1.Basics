@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jettik1/NodeBasics.git"
+    "url": "git+https://github.com/Jettik1/Node.1.Basics.git"
   },
   "keywords": [
     "node",
@@ -19,9 +19,9 @@
   "author": "Jettik1",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jettik1/NodeBasics/issues"
+    "url": "https://github.com/Jettik1/Node.1.Basics/issues"
   },
-  "homepage": "https://github.com/Jettik1/NodeBasics#readme",
+  "homepage": "https://github.com/Jettik1/Node.1.Basics#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
   }
