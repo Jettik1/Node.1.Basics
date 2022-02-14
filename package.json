@@ -1,0 +1,29 @@
+{
+  "name": "startnode",
+  "version": "1.0.0",
+  "description": "start on node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js", 
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jettik1/NodeBasics.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Jettik1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jettik1/NodeBasics/issues"
+  },
+  "homepage": "https://github.com/Jettik1/NodeBasics#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
+
